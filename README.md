@@ -1,4 +1,4 @@
-# Sample Project for Adding a React and Patternfly GUI to Quarkus 
+# Sample Project for adding a React and Patternfly GUI to Quarkus 
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework and has a React project embedded in the /src/main/webapp folder.  The React assets are compiled implicitly during the maven build.  
 
