@@ -1,5 +1,6 @@
 
-src/main/resources/META-INF/resources
+src/main/resources/META-INF/resources/*
+!.gitkeep
 
 #Maven
 target/
