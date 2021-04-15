@@ -15,7 +15,7 @@ Start Quarkus in Dev mode:
 And in a new terminal React in dev mode:
 ```shell script
 cd src/main/webapp
-node start
+npm start
 ```
 
 Then you can access the React frontend under http://localhost:3000
